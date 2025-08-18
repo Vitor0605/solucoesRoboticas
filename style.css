@@ -5,3 +5,22 @@ body {
     font-family: "Chakra Petch", sans-serif; /*Definição de fonte*/
     margin-bottom: 1000px; /*Espaço externo inferior*/
 }
+
+.chamada {
+    background-color: rgb(184, 150, 213);
+    padding: 80px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
