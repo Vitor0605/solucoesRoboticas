@@ -7,18 +7,18 @@ body {
 }
 
 .chamada {
-    background-color: rgb(184, 150, 213); /**/
-    padding: 80px 0; /**/
-    display: flex; /**/
-    justify-content: center; /**/
+    background-color: rgb(184, 150, 213); /*Cor de fundo*/
+    padding: 80px 0; /*Espaçamento interno dos lados*/
+    display: flex; /*Modo como se comporta*/
+    justify-content: center; /*Centraliza o conteudo*/
 }
 
 .chamada-texto {
-    margin-right: 5%;
+    margin-right: 5%; /*Espaço externo pra direita*/
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 40px; /**/
 }
 
 p {
