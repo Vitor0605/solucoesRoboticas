@@ -18,34 +18,34 @@ body {
 }
 
 h1 {
-    font-size: 40px; /**/
+    font-size: 40px; /*Tamanho da fonte*/
 }
 
 p {
-    font-size: 20px;
+    font-size: 20px; /*Tamanho da fonte*/
 }
 
 .categoria-videos {
-    display: flex;
+    display: flex; 
     overflow-x: auto;
-    gap: 10px;
+    gap: 10px; 
 }
 
 .categoria {
-    padding: 0px 20px;
-    margin-top: 50px;
+    padding: 0px 20px; /*Espaçamento interno dos lados*/
+    margin-top: 50px; /*Espaçamento externo pra cima*/
 }
 
 .categoria-videos img {
-    opacity: 0.5;
-    height: 190px;
+    opacity: 0.5; /*Opacidade da imagem*/
+    height: 190px; /*Altura*/
 }
 
 .categoria-videos img:hover {
-    opacity: 1.0;
-    border: 3px solid green;
+    opacity: 1.0; 
+    border: 3px solid green; /*Definindo a borda*/
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: rgb(42, 122, 228); /*Cor dos itens*/
 }
